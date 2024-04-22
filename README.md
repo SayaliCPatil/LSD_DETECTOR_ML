@@ -1,2 +1,4 @@
 # LSD_DETECTOR_ML
-This Repository Contains ML project for lumpy skin disease detection using CNN algorith, with training &amp; testing dataset
+
+#this project contains ML models for Lumpy Skin Dieseas detection and classification.
+#the model works on image datasets.
